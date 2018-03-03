@@ -25,6 +25,7 @@ pytest = "*"
 sphinx = "*"
 mypy = "*"
 codecov = "*"
+ipython = "*"
 
 
 [scripts]
