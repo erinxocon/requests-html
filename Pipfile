@@ -22,10 +22,10 @@ twine = "*"
 requests-file = "*"
 pytest = "*"
 "e1839a8" = {path = ".", editable = true}
-sphinx = "*"
+Sphinx = "*"
 mypy = "*"
 codecov = "*"
-ipython = "*"
+pytest-cov = "*"
 
 
 [scripts]
