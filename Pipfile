@@ -30,4 +30,4 @@ pytest-cov = "*"
 
 [scripts]
 
-tests = "pytest --cov=./ -v -m ok"
+tests = "pytest --cov=./ -v"
