@@ -10,6 +10,7 @@ install:
 # command to run the dependencies
 script:
   - "pipenv run tests"
+  - "pipenv run codecov"
 
 # command to run tests
 # jobs:
